@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abyssal Centipede
+* source:	https://sketchfab.com/3d-models/abyssal-centipede-34d6fc91f08441c0a9a81f3f167220b9
+* author:	RI6P (https://sketchfab.com/RI6P)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abyssal Centipede" (https://sketchfab.com/3d-models/abyssal-centipede-34d6fc91f08441c0a9a81f3f167220b9) by RI6P (https://sketchfab.com/RI6P) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
